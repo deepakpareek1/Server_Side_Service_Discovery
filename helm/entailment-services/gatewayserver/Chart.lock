@@ -1,0 +1,6 @@
+dependencies:
+- name: entailment-common
+  repository: file://../../entailment-common
+  version: 0.1.0
+digest: sha256:b0ac6dd95db3e8620042fa1d0cd273b55f9d795766b55d43f7a7b063efd07ba4
+generated: "2024-09-16T23:07:53.0006057+05:30"
