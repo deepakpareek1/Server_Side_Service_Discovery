@@ -9,7 +9,7 @@ appName: configserver
 replicaCount: 1
 
 image:
-  repository: entailment/configserver
+  repository: deepakpareek1/configserver
   tag: s6
 
 containerPort: 8071

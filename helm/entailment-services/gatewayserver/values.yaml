@@ -9,7 +9,7 @@ appName: gatewayserver
 replicaCount: 1
 
 image:
-  repository: entailment/gatewayserver
+  repository: deepakpareek1/gatewayserver
   tag: s6
 
 containerPort: 8072

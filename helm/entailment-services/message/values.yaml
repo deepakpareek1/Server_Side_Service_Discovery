@@ -9,7 +9,7 @@ appName: message
 replicaCount: 1
 
 image:
-  repository: entailment/message
+  repository: deepakpareek1/message
   tag: s6
 
 containerPort: 9010

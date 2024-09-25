@@ -9,7 +9,7 @@ appName: loans
 replicaCount: 1
 
 image:
-  repository: entailment/loans
+  repository: deepakpareek1/loans
   tag: s6
 
 containerPort: 8090

@@ -9,7 +9,7 @@ appName: accounts
 replicaCount: 2
 
 image:
-  repository: entailment/accounts
+  repository: deepakpareek1/accounts
   tag: s6
 
 containerPort: 8080

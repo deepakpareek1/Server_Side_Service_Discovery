@@ -9,7 +9,7 @@ appName: cards
 replicaCount: 1
 
 image:
-  repository: entailment/cards
+  repository: deepakpareek1/cards
   tag: s6
 
 containerPort: 9000
